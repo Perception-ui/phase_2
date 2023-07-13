@@ -39,3 +39,4 @@ The dataset, King County House Sales, contains various predictor variables that 
    - Plotted the average price by year built to understand trends in house prices over time.
    - Identified any notable patterns or relationships between year built and average price.
 
+Link to notebook: https://docs.google.com/presentation/d/1IM9OzdktjdRRV8AWDLt5qgPczElkO2MeE69hP6r-9q8/edit?usp=sharing
